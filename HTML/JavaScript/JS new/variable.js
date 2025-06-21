@@ -41,3 +41,15 @@ console.log(a);
 // var price = 100;
 // var total = (count * price);
 // console.log(total);
+
+
+
+// operators increment / decrement
+
+// let x = 5;
+// let b = ++x; // pre-increment: x is incerement to 6,and then assigned to y
+// console.log(x);
+// console.log(b);
+
+//typeof
+//console.log(typeof (true));
